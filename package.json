@@ -1,0 +1,24 @@
+{
+  "name": "insurable-data-test",
+  "version": "1.0.0",
+  "description": "test repository for insurable-data",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Verady/insurable-data-test.git"
+  },
+  "author": "Nathan Eppinger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Verady/insurable-data-test/issues"
+  },
+  "homepage": "https://github.com/Verady/insurable-data-test#readme",
+  "dependencies": {
+    "request": "^2.81.0",
+    "request-promise-native": "^1.0.4"
+  }
+}
